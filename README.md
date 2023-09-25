@@ -1,6 +1,6 @@
-## Who Am I?
+## 👋 Hi,
 
-👋 Hi, my name is Monika!
+my name is Monika!
 
 ### About me
 
