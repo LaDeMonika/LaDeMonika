@@ -18,7 +18,7 @@ my name is Monika. I am a student at 42Vienna.
 <img title="CSS3" alt="CSS3" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/7cc31647-7200-4748-be23-2099874d5e4e" width="30" height="40" />
 
 #### OS
-<img title="Ubuntu" alt="Ubuntu" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/c1dfec0e-9266-4ed2-be6b-076971588a23" width="40" height="40" />
+<img title="Ubuntu" alt="Ubuntu" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/c1dfec0e-9266-4ed2-be6b-076971588a23" width="35" height="35" />
 
 #### Tools
-<img title="Git" alt="Git" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/e97b6183-0485-400d-b1d9-b1ea7a947ead" width="40" height="40" />
+<img title="Git" alt="Git" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/e97b6183-0485-400d-b1d9-b1ea7a947ead" width="35" height="35" />
