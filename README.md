@@ -3,6 +3,7 @@ my name is Monika. I am a student at 42Vienna.
 
 <img title="42Vienna" alt="42Vienna" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/deb60cfd-3847-484f-80ae-6f742083615a" width="80" height="60" />
 <img title="" alt="" src="" width="10" height="10" />
+
 ### About me
 
 💡 I consider myself as innovative person. I am always inspired to brainstorm new ideas and approaches to tackle global issues. I believe that innovation can bring positive changes to the world, so I strive to find creative ways to address challenges.
