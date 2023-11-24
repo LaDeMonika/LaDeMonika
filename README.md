@@ -14,7 +14,7 @@ my name is Monika. I am a student at 42Vienna.
 #### Languages
 <img title="C Programming Language" alt="CProgrammingLanguage" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/101de7dc-d7a7-41c6-8457-4d1f4213f319" width="35" height="35" />
 <img title="HTML5" alt="HTML5" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/faf3025d-65c2-4658-a421-9624d4074916" width="40" height="40" />
-<img title="CSS3" alt="CSS3" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/7cc31647-7200-4748-be23-2099874d5e4e" width="40" height="40" />
+<img title="CSS3" alt="CSS3" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/7cc31647-7200-4748-be23-2099874d5e4e" width="30" height="40" />
 
 #### OS
 <img title="Ubuntu" alt="Ubuntu" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/c1dfec0e-9266-4ed2-be6b-076971588a23" width="40" height="40" />
