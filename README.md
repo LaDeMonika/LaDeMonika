@@ -25,4 +25,4 @@ my name is Monika. I am a student at 42Vienna.
 <img title="Git" alt="Git" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/e97b6183-0485-400d-b1d9-b1ea7a947ead" width="35" height="35" />
 
 ### Contact
-[<img title="LinkedIn" alt="LinkedIn" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/0953a782-684a-4cbb-8d34-4d9fbc4f4636" width="30" height="30" />](linkedin.com/in/lademonika)
+[<img title="LinkedIn" alt="LinkedIn" src="www.linkedin.com/in/lademonika" width="30" height="30" />](linkedin.com/in/lademonika)
