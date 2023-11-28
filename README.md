@@ -20,6 +20,8 @@ my name is Monika. I am a student at 42Vienna.
 
 #### OS
 <img title="Ubuntu" alt="Ubuntu" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/c1dfec0e-9266-4ed2-be6b-076971588a23" width="35" height="35" />
+<img title="Debian" alt="Debian" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/4d1064e9-d585-40dc-bca4-d95146176844" width="35" height="35" />
+
 
 #### Tools
 <img title="Git" alt="Git" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/e97b6183-0485-400d-b1d9-b1ea7a947ead" width="35" height="35" />
