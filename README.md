@@ -7,7 +7,7 @@ my name is Monika. I am a student at 42Vienna.
 
 ### About me
 
-💡 I consider myself as innovative person. I am always inspired to brainstorm new ideas and approaches to tackle global issues. I believe that innovation can bring positive changes to the world, so I strive to find creative ways to address challenges.
+💡 I consider myself an innovative person. I am always inspired to brainstorm new ideas and approaches to tackle global issues. I believe that innovation can bring positive changes to the world, so I strive to find creative ways to address challenges.
 
 🚀 I don't give up easily. When I set a goal, I work hard to achieve it, no matter what challenges come my way. I always look for ways to overcome obstacles and reach my goals.
 
