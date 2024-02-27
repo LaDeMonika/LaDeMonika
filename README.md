@@ -7,11 +7,11 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 
 ### About me
 
-💡 I see myself as innovative person. I am always inspired to brainstorm new ideas and approaches to tackle global issues. I believe that innovation can bring positive changes to the world, so I strive to find creative ways to address challenges.
+💡 I consider myself an innovative person who is constantly driven to generate new ideas.
 
-🚀 I don't give up easily. When I set a goal, I work hard to achieve it, no matter what challenges come my way. I always look for ways to overcome obstacles and reach my goals.
+🚀 I achieve the goals I’ve set myself, no matter what challenges I have to face.
 
-😄 I'm a positive person, and I believe in the power of having a positive mindset. I'm all about spreading good vibes and giving folks a boost to help them reach their goals. I believe that when we work together, we can achieve amazing things.
+😄 My approach is to stay positive and cheerful, always ready to help and motivate others.
 
 #### Languages
 <img title="C Programming Language" alt="CProgrammingLanguage" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/101de7dc-d7a7-41c6-8457-4d1f4213f319" width="35" height="35" />
