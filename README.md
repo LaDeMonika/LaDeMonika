@@ -2,7 +2,6 @@
 my name is Monika. I am studying Software Engineering at 42 Vienna.
 
 [<img title="42Vienna" alt="42Vienna" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/deb60cfd-3847-484f-80ae-6f742083615a" width="80" height="60" />](https://www.42vienna.com)
-
 <img title="" alt="" src="" width="0" height="0" />
 
 ### About me
@@ -20,16 +19,16 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 
 
 #### OS
-<img title="Ubuntu" alt="Ubuntu" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/c1dfec0e-9266-4ed2-be6b-076971588a23" width="35" height="35" />
-<img title="Debian" alt="Debian" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/4d1064e9-d585-40dc-bca4-d95146176844" width="35" height="35" />
-<img title="Kali Linux" alt="Kali Linux" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/85b18e22-772c-4c45-b856-9a8c4e71a392" width="35" height="35" />
+<img title="Windows" alt="Windows logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/a34d2412-668d-4964-83e3-3e36fa71dcb5" width="35" height="35" />
+<img title="Ubuntu" alt="Ubuntu logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/c1dfec0e-9266-4ed2-be6b-076971588a23" width="35" height="35" />
+<img title="Debian - I use without GUI" alt="Debian logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/4d1064e9-d585-40dc-bca4-d95146176844" width="35" height="35" />
+<img title="Kali Linux" alt="Kali Linux logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/85b18e22-772c-4c45-b856-9a8c4e71a392" width="35" height="35" />
 
 
 #### Tools
 <img title="Git" alt="Git" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/e97b6183-0485-400d-b1d9-b1ea7a947ead" width="35" height="35" />
 <img title="Oracle VM VirtualBox" alt="Virtualbox" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/709b0ba7-0257-4de9-b4fd-1da46020a910" width="40" height="35" />
 <img title="VS Code" alt="VS Code" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/b0bdbb6c-1df6-4061-b325-b295f6786182" width="34" height="35" />
-
 
 
 ### Contact
