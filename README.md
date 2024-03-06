@@ -13,7 +13,8 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 😄 My approach is to stay positive and cheerful, always ready to help and motivate others.
 
 #### Languages
-<img title="C Programming Language" alt="CProgrammingLanguage" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/101de7dc-d7a7-41c6-8457-4d1f4213f319" width="35" height="35" />
+<img title="C Programming Language" alt="C ProgrammingLanguage" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/101de7dc-d7a7-41c6-8457-4d1f4213f319" width="35" height="35" />
+<img title="Java" alt="Java" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/3417fe6b-d4fe-45d8-97bd-927e2828b65b" width="45" height="40" />
 <img title="HTML5" alt="HTML5" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/faf3025d-65c2-4658-a421-9624d4074916" width="40" height="40" />
 <img title="CSS3" alt="CSS3" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/7cc31647-7200-4748-be23-2099874d5e4e" width="30" height="40" />
 
