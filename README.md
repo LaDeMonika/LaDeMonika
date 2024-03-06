@@ -30,7 +30,7 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 <img title="Git" alt="Git Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/e97b6183-0485-400d-b1d9-b1ea7a947ead" width="35" height="35" />
 <img title="Oracle VM VirtualBox" alt="Virtualbox Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/709b0ba7-0257-4de9-b4fd-1da46020a910" width="40" height="35" />
 <img title="VS Code" alt="VS Code Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/b0bdbb6c-1df6-4061-b325-b295f6786182" width="34" height="35" />
-<img title="Android_Studio_Logo" alt="Android Studio Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/06187096-1928-4b84-9d43-7b56dfb26ed8" width="35" height="35" />
+<img title="Android Studio" alt="Android Studio Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/06187096-1928-4b84-9d43-7b56dfb26ed8" width="35" height="35" />
 
 
 ### Contact
