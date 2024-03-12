@@ -1,7 +1,7 @@
 ## 👋 Hi,
 my name is Monika. I am studying Software Engineering at 42 Vienna.
 
-[<img title="42Vienna" alt="42Vienna" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/deb60cfd-3847-484f-80ae-6f742083615a" width="80" height="60" />](https://www.42vienna.com)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/msimic?1337Badge=off&UM6P=off" alt="msimic's 42 stats" /></a>
 <img title="" alt="" src="" width="0" height="0" />
 
 ### About me
@@ -35,3 +35,6 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 
 ### Contact
 [<img title="LinkedIn" alt="LinkedIn" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/0953a782-684a-4cbb-8d34-4d9fbc4f4636" width="30" height="30" />](https://www.linkedin.com/in/simicmonika/)
+
+
+
