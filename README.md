@@ -1,8 +1,10 @@
 ## 👋 Hi,
 my name is Monika. I am studying Software Engineering at 42 Vienna.
-
+<details>
+  <summary>42 student badge</summary>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/msimic?1337Badge=off&UM6P=off" alt="msimic's 42 stats" /></a>
-<img title="" alt="" src="" width="0" height="0" />
+</details>
+
 
 ### About me
 
@@ -11,17 +13,19 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 🚀 I achieve the goals I’ve set myself, no matter what challenges I have to face.
 
 😄 My approach is to stay positive and cheerful, always ready to help and motivate others.
-<p><br>
-I'm interested in:
+
+
+<details>
+  <summary>interests</summary>
   <ul>
     <li>📱 Mobile app development</li>
     <li>🌐 Web development</li>
     <li>👨‍💻 Cybersecurity</li>
     <li>🤖 AI</li>
-    <li>...and many more</li>
+    <li>📊 Data science</li>
   </ul>
-  <br>
-</p>
+</details>
+
 
 ### Languages
 <img title="C Programming Language" alt="C Programming Language logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/101de7dc-d7a7-41c6-8457-4d1f4213f319" width="35" height="35" />
@@ -48,13 +52,14 @@ I'm interested in:
 ### Contact
 [<img title="LinkedIn" alt="LinkedIn" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/0953a782-684a-4cbb-8d34-4d9fbc4f4636" width="30" height="30" />](https://www.linkedin.com/in/simicmonika/)
 
-
-### Statistics
+### GitHub Stats
+<details>
+  <summary>📊 Statistics</summary>
 <a href="https://github.com/LaDeMonika/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaDeMonika" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaDeMonika&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/LaDeMonika/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaDeMonika&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaDeMonika&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
-
+</details>
 
