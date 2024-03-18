@@ -49,4 +49,12 @@ I'm interested in:
 [<img title="LinkedIn" alt="LinkedIn" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/0953a782-684a-4cbb-8d34-4d9fbc4f4636" width="30" height="30" />](https://www.linkedin.com/in/simicmonika/)
 
 
+### Statistics
+<a href="https://github.com/LaDeMonika/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaDeMonika" />
+</a>
+<a href="https://github.com/LaDeMonika/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaDeMonika&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
