@@ -52,14 +52,19 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 ### Contact
 [<img title="LinkedIn" alt="LinkedIn" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/0953a782-684a-4cbb-8d34-4d9fbc4f4636" width="30" height="30" />](https://www.linkedin.com/in/simicmonika/)
 
-### GitHub Stats
+### Stats
 <details>
-  <summary>📊 Statistics</summary>
-<a href="https://github.com/LaDeMonika/github-readme-stats">
+  <summary>📊 GitHub Statistics</summary>
+  <a href="https://github.com/LaDeMonika/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaDeMonika&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/LaDeMonika/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaDeMonika&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
+</details>
+
+<details>
+  <summary>📊 Developer Roadmaps Statistics</summary>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/664b3436bc68b74d9bf3e1c0?variant=dark&roadmaps=docker%2Ccyber-security%2Cdevops" alt="roadmap.sh"/></a>
 </details>
 
