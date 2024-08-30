@@ -31,6 +31,7 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 <img title="C Programming Language" alt="C Programming Language logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/101de7dc-d7a7-41c6-8457-4d1f4213f319" width="35" height="35" />
 <img title="HTML5" alt="HTML5 logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/faf3025d-65c2-4658-a421-9624d4074916" width="40" height="40" />
 <img title="CSS3" alt="CSS3 logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/7cc31647-7200-4748-be23-2099874d5e4e" width="30" height="40" />
+<img title="TS" alt="TS logo" src="https://github.com/user-attachments/assets/b6ebdff1-1d68-418a-9dd6-6ed4b8a6b111" width="35" height="35" />
 
 
 ### OS
@@ -38,6 +39,7 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 <img title="Ubuntu" alt="Ubuntu logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/c1dfec0e-9266-4ed2-be6b-076971588a23" width="35" height="35" />
 <img title="Debian - I use without GUI" alt="Debian logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/4d1064e9-d585-40dc-bca4-d95146176844" width="35" height="35" />
 <img title="Kali Linux" alt="Kali Linux logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/85b18e22-772c-4c45-b856-9a8c4e71a392" width="35" height="35" />
+<img title="Mac" alt="Mac logo" src="https://github.com/user-attachments/assets/65573255-d1de-4cf9-8dd9-b661975f6891" width="35" height="35" />
 
 
 ### Tools
@@ -46,6 +48,7 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 <img title="Vim" alt="Vim text editor" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/43a0c682-eaf6-416d-8d0d-4e2d073a7cb0" width="35" height="35" />
 <img title="VS Code" alt="VS Code Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/b0bdbb6c-1df6-4061-b325-b295f6786182" width="34" height="35" />
 <img title="Android Studio" alt="Android Studio Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/06187096-1928-4b84-9d43-7b56dfb26ed8" width="35" height="35" />
+<img title="Playwright" alt="Playwright Logo" src="https://github.com/user-attachments/assets/31025076-be4c-4778-8298-06ca4716c5d3" width="35" height="35" />
 
 
 ### Contact
