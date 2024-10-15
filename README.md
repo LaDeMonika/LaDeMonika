@@ -32,6 +32,7 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 <img title="HTML5" alt="HTML5 logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/faf3025d-65c2-4658-a421-9624d4074916" width="40" height="40" />
 <img title="CSS3" alt="CSS3 logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/7cc31647-7200-4748-be23-2099874d5e4e" width="30" height="40" />
 <img title="TS" alt="TS logo" src="https://github.com/user-attachments/assets/b6ebdff1-1d68-418a-9dd6-6ed4b8a6b111" width="35" height="35" />
+<img title="Python" alt="Python logo" src="https://github.com/user-attachments/assets/b50f1794-ac38-48b0-87ba-5a23cda530fd" width="35" height="35" />
 
 
 ### OS
