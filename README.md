@@ -49,8 +49,8 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 <img title="Vim" alt="Vim text editor" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/43a0c682-eaf6-416d-8d0d-4e2d073a7cb0" width="35" height="35" />
 <img title="VS Code" alt="VS Code Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/b0bdbb6c-1df6-4061-b325-b295f6786182" width="34" height="35" />
 <img title="Android Studio" alt="Android Studio Logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/06187096-1928-4b84-9d43-7b56dfb26ed8" width="35" height="35" />
-<img title="Playwright" alt="Playwright Logo" src="https://github.com/user-attachments/assets/31025076-be4c-4778-8298-06ca4716c5d3" width="35" height="35" />
-<img title="Postman" alt="Postman Logo" src="https://github.com/user-attachments/assets/2423da36-6719-4121-974e-dfaa44909071" width="35" height="30" />
+<img title="Playwright" alt="Playwright Logo" src="https://github.com/user-attachments/assets/31025076-be4c-4778-8298-06ca4716c5d3" width="40" height="40" />
+<img title="Postman" alt="Postman Logo" src="https://github.com/user-attachments/assets/2423da36-6719-4121-974e-dfaa44909071" width="40" height="35" />
 
 
 ### Contact
