@@ -58,7 +58,7 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 
 ### Stats
 <details>
-  <summary>📊 GitHub</summary>
+  <summary>🌐 GitHub</summary>
   <a href="https://github.com/LaDeMonika/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaDeMonika&show_icons=true&theme=radical" />
 </a>
@@ -66,6 +66,12 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaDeMonika&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 </details>
+
+<details>
+  <summary>👨‍💻 TryHackMe</summary>
+  <a href="https://tryhackme.com"><img src="https://tryhackme-badges.s3.amazonaws.com/lademonic00.png" alt="tryhackme.com"/></a>
+</details>
+
 
 <details>
   <summary>📊 Developer Roadmap</summary>
