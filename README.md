@@ -69,7 +69,7 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 
 <details>
   <summary>👨‍💻 TryHackMe</summary>
-  <a href="https://tryhackme.com"><img src="https://tryhackme-badges.s3.amazonaws.com/lademonic00.png" alt="tryhackme.com"/></a>
+  <a href="https://tryhackme.com"><img src="https://tryhackme-badges.s3.amazonaws.com/lademonic00.png"" " alt="tryhackme.com"/></a>
 </details>
 
 
