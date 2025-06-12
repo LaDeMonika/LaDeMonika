@@ -26,9 +26,9 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
   </ul>
 </details>
 
-
 ### Languages
 <img title="C Programming Language" alt="C Programming Language logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/101de7dc-d7a7-41c6-8457-4d1f4213f319" width="35" height="35" />
+<img title="C++ Programming Language" alt="C++ Programming Language logo" src="https://github.com/user-attachments/assets/247b605f-157a-447f-82e0-13944c5d8026" width="32" height="36" />
 <img title="HTML5" alt="HTML5 logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/faf3025d-65c2-4658-a421-9624d4074916" width="40" height="40" />
 <img title="CSS3" alt="CSS3 logo" src="https://github.com/LaDeMonika/LaDeMonika/assets/128793184/7cc31647-7200-4748-be23-2099874d5e4e" width="30" height="40" />
 <img title="TS" alt="TS logo" src="https://github.com/user-attachments/assets/b6ebdff1-1d68-418a-9dd6-6ed4b8a6b111" width="35" height="35" />
