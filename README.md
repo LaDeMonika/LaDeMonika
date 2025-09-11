@@ -45,8 +45,8 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/simicmonika/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/la_demonica/">
+<!--   </a>
+  <a target="_blank" href="">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  </a> -->
 </p>
