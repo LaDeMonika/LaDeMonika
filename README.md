@@ -17,15 +17,6 @@ my name is Monika. I am studying Software Engineering at 42 Vienna.
 😄 My approach is to stay positive and cheerful, always ready to help and motivate others.
 </p>
 
-<details align="center">
-  <summary>Interests</summary>
-  <ul>
-    <li>📱 Mobile app development</li>
-    <li>🌐 Web development</li>
-    <li>👨‍💻 Cybersecurity</li>
-  </ul>
-</details>
-
 ---
 <h3 align="center">WORK(ED) WITH</h3>
 <p align="center">
