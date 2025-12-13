@@ -3,11 +3,6 @@
 my name is Monika. I am studying Software Engineering at 42 Vienna.
 </p>
 
-<details align="center">
-  <summary>42 student badge</summary>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/msimic?1337Badge=off&UM6P=off" alt="msimic's 42 stats" /></a>
-</details>
-
 ---
 <h3 align="center">About me</h3>
 
